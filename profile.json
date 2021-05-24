@@ -1,0 +1,24 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "title": "Kariya"
+    }
+    {
+      "id": 2,
+      "title": "Kiwiyaaa"
+    }
+    {
+      "id": 3,
+      "title": "Bariya"
+    }
+    {
+      "id": 4,
+      "title": "Cheese"
+    }
+    {
+      "id": 5,
+      "name": "Sucre"
+    }
+  ],
+}
