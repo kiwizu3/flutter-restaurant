@@ -1,11 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "profiles": [
+    { "id": 1, "name": "Person 01" },
+    { "id": 2, "name": "Person 02" },
+    { "id": 3, "name": "Person 03" }
   ],
-  "profile": {
-    "name": "typicode"
+  "restaurants": [
+    { "id": 1, "name": "Restaurant 01", "location": "Kandy" },
+    { "id": 2, "name": "Restaurant 02", "location": "Colombo" }
+  ],
+  "admin": {
+    "name": "kiwi"
   }
 }
